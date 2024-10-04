@@ -53,7 +53,7 @@ Movie 1: Inception
 Movie 2: The Matrix
 Select your favorite genres from the list below (separate choices with commas): 
 ...
-```Recommendations: ['Interstellar', 'The Prestige', 'Fight Club']
+Recommendations: ['Interstellar', 'The Prestige', 'Fight Club']
 
 
 ## Contributing
